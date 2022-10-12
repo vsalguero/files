@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T02:33:24.238Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ETezOu6CU_KOaN__2S4h" version="20.4.0" type="github" pages="4">
-  <diagram id="092m5rQd-aOuq9nqF3iB" name="Página-1">
+<mxfile host="app.diagrams.net" modified="2022-10-12T02:34:09.384Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="N384fxCxYbP8WXNTKLkB" version="20.4.0" type="github" pages="4">
+  <diagram id="092m5rQd-aOuq9nqF3iB" name="Equipos">
     <mxGraphModel dx="1935" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -277,7 +277,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="A-5Sj8NnsiIFAZtPlI5I" name="Página-2">
+  <diagram id="A-5Sj8NnsiIFAZtPlI5I" name="Infraestructura">
     <mxGraphModel dx="1108" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -312,7 +312,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Zu6fG8ADqnr7WUpRIuTP" name="Página-3">
+  <diagram id="Zu6fG8ADqnr7WUpRIuTP" name="Puntos de red">
     <mxGraphModel dx="1935" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
