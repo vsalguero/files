@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T03:12:52.494Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6MHC5vZzt5xZabYp1NXL" version="20.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-12T03:15:52.803Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="MJ1Z-Mf0RDclSYMDjtTN" version="20.4.0" type="github" pages="4">
   <diagram id="092m5rQd-aOuq9nqF3iB" name="Equipos">
     <mxGraphModel dx="1935" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -761,19 +761,37 @@
           <mxGeometry x="741.25" y="350" width="37.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ypcApNH_AYbXosGMX2a0-93" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="1">
-          <mxGeometry x="742.5" y="144.68" width="37.5" height="30" as="geometry" />
+          <mxGeometry x="740.5" y="144.68" width="37.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ypcApNH_AYbXosGMX2a0-94" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="1">
-          <mxGeometry x="451.5" y="350" width="37.5" height="30" as="geometry" />
+          <mxGeometry x="408.5" y="341.96" width="37.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ypcApNH_AYbXosGMX2a0-95" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="1">
-          <mxGeometry x="451.5" y="144.68" width="37.5" height="30" as="geometry" />
+          <mxGeometry x="408.5" y="143.92000000000002" width="37.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ypcApNH_AYbXosGMX2a0-96" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="1">
-          <mxGeometry x="144.5" y="350" width="37.5" height="30" as="geometry" />
+          <mxGeometry x="140.75" y="341.96" width="37.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ypcApNH_AYbXosGMX2a0-97" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="1">
           <mxGeometry x="140.75" y="141.96" width="37.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ypcApNH_AYbXosGMX2a0-98" value="" style="endArrow=none;html=1;strokeWidth=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="427.5" y="351.96" as="sourcePoint" />
+            <mxPoint x="427.5" y="65.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ypcApNH_AYbXosGMX2a0-100" value="" style="endArrow=none;html=1;strokeWidth=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="759.5" y="367.96" as="sourcePoint" />
+            <mxPoint x="759.5" y="81.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ypcApNH_AYbXosGMX2a0-101" value="" style="endArrow=none;html=1;strokeWidth=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="159" y="351.96000000000004" as="sourcePoint" />
+            <mxPoint x="159" y="65.96000000000004" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
