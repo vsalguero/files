@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T02:17:47.135Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="oigngvMKjZOzb-zUzrUY" version="20.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-13T02:18:16.127Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ygtzs3ZOWFQY1PHgFDfS" version="20.4.0" type="github" pages="4">
   <diagram id="A-5Sj8NnsiIFAZtPlI5I" name="Infraestructura">
     <mxGraphModel dx="1108" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -552,7 +552,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ziLDG0TpRy0WtXaQshRk" name="Equipos">
-    <mxGraphModel dx="1935" dy="1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -642,9 +642,6 @@
         </mxCell>
         <mxCell id="QL53xzI6jk0DmehvVTck-29" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="733.5" y="421" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QL53xzI6jk0DmehvVTck-33" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="-10" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QL53xzI6jk0DmehvVTck-34" value="" style="shape=corner;whiteSpace=wrap;html=1;rotation=90;dx=5;dy=5;fillColor=#f2f2f2;" vertex="1" parent="1">
           <mxGeometry x="332.69" y="-175.96" width="396.47" height="895.73" as="geometry" />
